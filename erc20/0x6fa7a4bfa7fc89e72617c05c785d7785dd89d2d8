@@ -1,0 +1,26 @@
+{
+  "symbol": "FCC",
+  "address": "0x6fa7a4bfa7fc89e72617c05c785d7785dd89d2d8",
+  "overview":{
+        "en": "Forecast chain: based on block-chain technology, the common chain of prediction data base is constructed, and the closed loop of group intelligence value in the prediction ecology is realized by using the economic system of pass card.",
+        "zh": "预测链：基于区块链技术构建价值可信的预测数据基础公链，利用通证经济系统实现预测生态内群体智慧价值闭环"
+  },
+  "email": "services@forecastchain.org",
+  "website": "http://forecastchain.org/",
+  "whitepaper": "https://forecastchain.org/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2017-09-01",
+  "initial_price":{
+        "ETH":"0.00000256 ETH",
+        "USD":"0.15384615 USD",
+        "BTC":"0.00000017 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/ForecastChain_",
+    "telegram": "https://t.me/join/forecastchain",
+    "facebook": "https://www.facebook.com/forecast.chain.1",
+    "reddit": "https://ww.reddit.com/user/fcchain/",
+    "slack": "https://forecastchain.slack.com/",
+    "medium": "https://medium.com/@forecastchain"
+  }
+}
